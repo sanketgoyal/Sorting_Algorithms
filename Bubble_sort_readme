@@ -1,0 +1,11 @@
+Bubble Sort:
+- Large elements are swapped to the end of the list.
+- Algorithm requires multiple passes over the same list
+- Only one list, no new lists are created
+
+Time Complexity
+- Best O(n)
+- Worst O(n^2)
+
+Space Complexity
+- O(1) Only one list is present
